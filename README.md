@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bug-hacker
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning DevOps(Docker,K8s,Git,Ansible,Jenkins,Linux)
-- 💞️ 
+- 💞️ Love technical challenges
 - 📫 
 
 <!---
